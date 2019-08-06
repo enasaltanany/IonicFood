@@ -1,0 +1,7 @@
+{
+  "appId": "cappacitor.app.id",
+  "appName": "ionic-angular-course",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
